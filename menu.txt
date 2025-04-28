@@ -1,0 +1,6 @@
+1|Espresso|15000|Kopi hitam pekat|logo.jpg
+2|Cappuccino|20000|Kopi dengan susu berbusa|logo.jpg
+3|Latte|22000|Kopi dengan susu panas|logo.jpg 
+4|Americano|18000|Kopi hangat|logo.jpg
+5|Mocha|25000|Kopi dengan cokelat|logo.jpg
+6|Macchiato|23000|Kopi dengan topping cokelat|logo.jpg
